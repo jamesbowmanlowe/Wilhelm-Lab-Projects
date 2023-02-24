@@ -1,1 +1,3 @@
 #hi
+s = input("Hello")
+print(s)
